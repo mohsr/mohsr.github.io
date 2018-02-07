@@ -11,10 +11,23 @@ ul {
     font-size: 12px;
 }
 
+img {
+	display: block;
+	margin: auto;
+	border-radius: 100%;
+}
+
 #header {
+	text-align: center;
 	font-size: 24px;
 }
 
 #back {
 	font-size: 10px;
+}
+
+#linklist {
+	list-style: none;
+	text-align: center;
+	font-size: 24px;
 }
