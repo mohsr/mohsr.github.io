@@ -25,6 +25,17 @@ img {
 	font-size: 10px;
 }
 
+#secret {
+	color: #a4eff4;
+	font-size: 6px;
+	text-align: center;
+}
+
+.centered {
+	font-size: 24px;
+	text-align: center;
+}
+
 .links {
 	list-style: none;
 	text-align: center;
