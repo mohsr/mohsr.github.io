@@ -3,14 +3,11 @@ body {
     font-family: "Trebuchet MS";
 }
 
-p {
+p, ul {
     font-size: 14px;
 }
 
-ul {
-    font-size: 12px;
-}
-
+/* Center image and round the edges. */
 img {
 	display: block;
 	margin: auto;
@@ -20,13 +17,15 @@ img {
 #header {
 	text-align: center;
 	font-size: 24px;
+	border: dashed;
 }
 
 #back {
+	text-align: center;
 	font-size: 10px;
 }
 
-#linklist {
+.links {
 	list-style: none;
 	text-align: center;
 	font-size: 24px;
