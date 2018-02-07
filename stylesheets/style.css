@@ -27,17 +27,11 @@ img {
 
 #secret {
 	color: #a4eff4;
-	font-size: 24px;
+	font-size: 12px;
 	text-align: center;
 }
 
 .centered {
 	font-size: 24px;
 	text-align: center;
-}
-
-.links {
-	list-style: none;
-	text-align: center;
-	font-size: 24px;
 }
