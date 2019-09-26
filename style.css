@@ -24,4 +24,5 @@ h1, h2, h3, h4, h5, h6 {
 
 .link_ul {
     list-style: none;
+    /* TODO: fix columns so that links are more in line with headers. */
 }
